@@ -6,7 +6,7 @@ const HomePage = () => {
     return <div className="HomePage">
         <h1>Nick & Emily</h1>
         <p>May 8th, 2020 - New Orleans</p>
-        <Img src={"https://i.imgur.com/Fynn9e2.jpg"} alt="nick and emily" />
+        <Img className="home-image" src={"https://i.imgur.com/Fynn9e2.jpg"} alt="nick and emily" />
     </div>
 }
 
