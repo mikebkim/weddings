@@ -3,7 +3,7 @@ import './PhotoPage.scss'
 
 const PhotoPage = () => {
     return <div className="PhotoPage">
-        <h1>Our Photos</h1>
+        <h1>Photos</h1>
         </div>
 }
 
