@@ -6,4 +6,13 @@
 
 .home-image {
     border: solid black 1rem;
+    width: 50%;
+    height: 50%;
+}
+
+.home-story {
+    justify-content: center;
+    display: flex;
+    margin: 0 0 1rem 0;
+    width: 50%;
 }

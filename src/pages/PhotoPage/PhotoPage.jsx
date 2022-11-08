@@ -4,7 +4,7 @@ import './PhotoPage.scss'
 const PhotoPage = () => {
     return <div className="PhotoPage">
         <h1>Photos</h1>
-        </div>
+    </div>
 }
 
 export default PhotoPage
